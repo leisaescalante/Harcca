@@ -54,7 +54,7 @@
 
 .esencias {
     background-color: burlywood;
-    text-align: initial;
+    text-align: center;
 }
 
 .compra {
@@ -81,15 +81,21 @@
 }
 
 .fondocolor {
-    background-color: rgb(107, 76, 135);
-}
 
-.fondoprodu {
-    background-image: url(imagenes/borde-rama-vector-fondo-beige_53876-164254.avif);
+    background-image: url(imagenes/deco2.jpg);
     padding-top: 100px;
     text-decoration: overline;
     text-align: center;
+    font-size: 30px; 
+    
+}
+
+.fondoprodu{
+    background-image: url(imagenes/deco2.jpg);
+    padding-top: 100px;
+    text-align: center;
     font-size: 30px;
+    text-decoration: overline;
 }
 
 .botones {
@@ -102,4 +108,7 @@
     text-align: center;
     color: black;
 
+}
+.alinevideo{
+    background-image: url(imagenes/deco2.jpg);
 }
